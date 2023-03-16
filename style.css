@@ -102,3 +102,11 @@ button:hover {
     grid-template-columns: 1fr;
   }
 }
+
+.img {
+  position: relative;
+  top: -20px;
+  height: 100px;
+  width: auto;
+  margin: 0 auto;
+  }
